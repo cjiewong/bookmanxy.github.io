@@ -11,6 +11,7 @@ type: page
 
 ## 大佬博客
 * 纯洁的微笑[微信公众号](https://mp.weixin.qq.com/s/GTBH1aEMPcBlYido78OTAw)
+* 柒's blog[柒's blog](https://blog.52itstyle.com/)
 
 ## 优质文章
 * [架构师带你玩转分布式锁](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
