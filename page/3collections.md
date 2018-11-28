@@ -17,6 +17,10 @@ type: page
 * [架构师带你玩转分布式锁](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
 * [拜托！面试请不要再问我Spring Cloud底层原理](https://mp.weixin.qq.com/s/7cIpSV0dHV5jHdxF4Wdtgw)
 
+## mark 开源
+* [分布式秒杀系统](https://gitee.com/52itstyle/spring-boot-seckill)
+* [架构脚手架收录](https://gitee.com/watermelon0620/faceland)
+
 ## 工具
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
