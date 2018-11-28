@@ -6,17 +6,11 @@ tags:  markDown
 author: watermelon
 ---
 ## 前言
-据说到我这就可以结束简介了
+简介跟下面只要空3行就行了
 
 
 
 ## 1，命令
-图片
-![图片.png](http://upload-images.jianshu.io/upload_images/2577413-07f3d54cc3ce1538.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-链接 :
-[Title](URL)
-
 换行符 : 一行结束时输入两个空格  
 
 字体加粗：**text**  
@@ -55,7 +49,11 @@ list:
 方框：
 - [ ] -
 
+图片
+![图片.png](http://upload-images.jianshu.io/upload_images/2577413-07f3d54cc3ce1538.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+链接 :
+[Title](URL)
 
 
 
