@@ -97,5 +97,5 @@ type: page
 [羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
 ## Comments
-
+![海码充电站](https://thumbnail0.baidupcs.com/thumbnail/dc6c2caf3b17bfcefc6f07a8347e9e60?fid=3022657087-250528-297020943375896&time=1543406400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-WOa3fkgBacreZWle6qNdoy77q%2B4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7696618029486668782&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 {% include comments.html %}
