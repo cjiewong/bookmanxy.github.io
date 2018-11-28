@@ -9,6 +9,13 @@ type: page
 * content
 {:toc}
 
+## 大佬博客
+* 纯洁的微笑[微信公众号](https://mp.weixin.qq.com/s/GTBH1aEMPcBlYido78OTAw)
+
+## 优质文章
+* 架构师带你玩转分布式锁[https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
+* 拜托！面试请不要再问我Spring Cloud底层原理[https://mp.weixin.qq.com/s/7cIpSV0dHV5jHdxF4Wdtgw](https://mp.weixin.qq.com/s/7cIpSV0dHV5jHdxF4Wdtgw)
+
 ## 工具
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
