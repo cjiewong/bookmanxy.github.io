@@ -23,7 +23,7 @@ type: page
 * email：994019959@qq.com
 * [知乎](https://www.zhihu.com/people/xiao-sheng-19-64/activities)
 * [码云](https://gitee.com/watermelon0620/events)
-* [微信公众号：海码充电站](http://mp.weixin.qq.com/mp/homepage?__biz=MzA4MTI5Mjc4MA==&hid=1&sn=3de65ef7521e46a4d77a7200118b92f9&scene=18#wechat_redirect)
+* [微信公众号：怀古念旧](http://mp.weixin.qq.com/mp/homepage?__biz=MzA4MTI5Mjc4MA==&hid=1&sn=3de65ef7521e46a4d77a7200118b92f9&scene=18#wechat_redirect)
 
 
 ## 关于本站
