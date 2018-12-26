@@ -13,6 +13,14 @@ author: cjie
 我们有时候可能需要写个循环任务或者定时任务，想用spring作为容器，这时候用springboot来开发会很方便。
 maven或gradle构建一个小项目并且打成jar包扔服务器上nohup java -jar或者写个shell脚本用crontab定时任务来执行就行，很轻量。
 SpringBoot给我们提供了两个接口来帮助我们实现这种需求。这两个接口分别为CommandLineRunner和ApplicationRunner。他们的执行时机为容器启动完成的时候。
+
+
+
+
+
+
+
+
 ### 1：CommandLineRunner接口和ApplicationRunner接口的共同之处与不同之处
 这两个接口中有一个run方法，我们只需要实现这个方法即可。
 这两个接口的不同之处在于：ApplicationRunner中run方法的参数为ApplicationArguments，而CommandLineRunner接口中run方法的参数为String数组。
