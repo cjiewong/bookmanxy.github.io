@@ -28,6 +28,6 @@ type: page
 欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/cjiewong/cjiewong.github.io/issues)。
 
 ## 友情链接
-
+* [海马充电站](https://bookmanxy.github.io)
 ## Comments
 {% include comments.html %}
