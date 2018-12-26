@@ -11,28 +11,21 @@ type: page
 
 ## 关于我
 
-主要兴趣集中在java研发及架构。
-
-喜欢看书、敲敲代码，爱倒腾些新技术。
-
-一个简单而又快乐的程序员~
+一只想成为IT大鳄的程序猿
 
 ## 联系我
 
-* GitHub：[bookmanxy](https://github.com/bookmanxy)
-* email：994019959@qq.com
-* [知乎](https://www.zhihu.com/people/xiao-sheng-19-64/activities)
-* [码云](https://gitee.com/watermelon0620/events)
-* [微信公众号：怀古念旧](http://mp.weixin.qq.com/mp/homepage?__biz=MzA4MTI5Mjc4MA==&hid=1&sn=3de65ef7521e46a4d77a7200118b92f9&scene=18#wechat_redirect)
+* GitHub：[cjiewong](https://github.com/cjiewong)
+* email：1016279925@qq.com
+* [知乎](https://www.zhihu.com/people/c-jie-wong/activities)
+* [码云](https://gitee.com/cjiewong/)
 
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/bookmanxy/bookmanxy.github.io](https://github.com/bookmanxy/bookmanxy.github.io)**
-
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/bookmanxy/bookmanxy.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/cjiewong/cjiewong.github.io/issues)。
 
 ## 友情链接
 
