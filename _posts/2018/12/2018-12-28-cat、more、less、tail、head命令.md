@@ -8,7 +8,7 @@ author: cjie
 * content
 {:toc}
 
-![linux](https://pic.bianla.cn/presentation/image/20181228/18ba7fd5cc764ba0be8f26329805f9cd.jpg =720x405)
+![linux](https://pic.bianla.cn/presentation/image/20181228/18ba7fd5cc764ba0be8f26329805f9cd.jpg )
 ## 前言
 linux系统中查看文档不像windows中有图形界面，需要用命令语句来操作，cat、more、less、tail、head都是查看文档的语句，下文来介绍各个语句的异同。
 
