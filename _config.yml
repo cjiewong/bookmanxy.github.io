@@ -7,7 +7,7 @@
 
 # Site settings
 title: 怀古念旧的技术专栏
-brief-intro: java Coder
+brief-intro: Back-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cjiewong.github.io" # the base hostname & protocol for your site
 
