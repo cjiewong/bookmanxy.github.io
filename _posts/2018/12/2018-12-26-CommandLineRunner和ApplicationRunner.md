@@ -123,7 +123,7 @@ java -jar task-1.0.jar hehe lala cjie -t=12 -spring.profiles.active=test --Dfhe=
 2018-12-26 15:30:27.280  INFO 9292 --- [           main] com.bianla.runner.TestCommandLineRunner  : 第6个参数，arg=--Dfhe=sda
 2018-12-26 15:30:27.286  INFO 9292 --- [           main] com.bianla.runner.TestCommandLineRunner  : 第7个参数，arg=--hehe=lala,xixi,zizi
 ```
-由上面的demo可以看出，参数以--开头的就是option,是--key=value1,value2,value3....的形式传递
+由上面的demo可以看出，参数以--开头的就是option,是--key=value的形式传递
 ### 3： @Order注解
 如果有多个实现类，而你需要他们按一定顺序执行的话，可以在实现类上加上@Order注解。@Order(value=整数值)。SpringBoot会按照@Order中的value值从小到大依次执行。
  
